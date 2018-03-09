@@ -1,8 +1,8 @@
 {
-  "expoServerPort": 19006,
-  "packagerPort": 19007,
-  "packagerPid": 12656,
-  "expoServerNgrokUrl": "https://wf-bht.kunyahya.staycay.exp.direct",
-  "packagerNgrokUrl": "https://packager.wf-bht.kunyahya.staycay.exp.direct",
-  "ngrokPid": 12672
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 37630,
+  "expoServerNgrokUrl": "https://wf-bht.ardani.staycay-layout.exp.direct",
+  "packagerNgrokUrl": "https://packager.wf-bht.ardani.staycay-layout.exp.direct",
+  "ngrokPid": 37647
 }
